@@ -1,0 +1,17 @@
+D:\U\Semestre 1\Análisis y diseño de sistemas 1 - Lab\Hoja de trabajo 3\[AYD1]HojaDeTrabajo3_201602719\BankTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\U\Semestre 1\Análisis y diseño de sistemas 1 - Lab\Hoja de trabajo 3\[AYD1]HojaDeTrabajo3_201602719\BankTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\U\Semestre 1\Análisis y diseño de sistemas 1 - Lab\Hoja de trabajo 3\[AYD1]HojaDeTrabajo3_201602719\BankTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\U\Semestre 1\Análisis y diseño de sistemas 1 - Lab\Hoja de trabajo 3\[AYD1]HojaDeTrabajo3_201602719\BankTests\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+D:\U\Semestre 1\Análisis y diseño de sistemas 1 - Lab\Hoja de trabajo 3\[AYD1]HojaDeTrabajo3_201602719\BankTests\bin\Debug\BankTests.dll
+D:\U\Semestre 1\Análisis y diseño de sistemas 1 - Lab\Hoja de trabajo 3\[AYD1]HojaDeTrabajo3_201602719\BankTests\bin\Debug\BankTests.pdb
+D:\U\Semestre 1\Análisis y diseño de sistemas 1 - Lab\Hoja de trabajo 3\[AYD1]HojaDeTrabajo3_201602719\BankTests\bin\Debug\Bank.exe
+D:\U\Semestre 1\Análisis y diseño de sistemas 1 - Lab\Hoja de trabajo 3\[AYD1]HojaDeTrabajo3_201602719\BankTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\U\Semestre 1\Análisis y diseño de sistemas 1 - Lab\Hoja de trabajo 3\[AYD1]HojaDeTrabajo3_201602719\BankTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\U\Semestre 1\Análisis y diseño de sistemas 1 - Lab\Hoja de trabajo 3\[AYD1]HojaDeTrabajo3_201602719\BankTests\bin\Debug\Bank.pdb
+D:\U\Semestre 1\Análisis y diseño de sistemas 1 - Lab\Hoja de trabajo 3\[AYD1]HojaDeTrabajo3_201602719\BankTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\U\Semestre 1\Análisis y diseño de sistemas 1 - Lab\Hoja de trabajo 3\[AYD1]HojaDeTrabajo3_201602719\BankTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\U\Semestre 1\Análisis y diseño de sistemas 1 - Lab\Hoja de trabajo 3\[AYD1]HojaDeTrabajo3_201602719\BankTests\obj\Debug\BankTests.csproj.AssemblyReference.cache
+D:\U\Semestre 1\Análisis y diseño de sistemas 1 - Lab\Hoja de trabajo 3\[AYD1]HojaDeTrabajo3_201602719\BankTests\obj\Debug\BankTests.csproj.CoreCompileInputs.cache
+D:\U\Semestre 1\Análisis y diseño de sistemas 1 - Lab\Hoja de trabajo 3\[AYD1]HojaDeTrabajo3_201602719\BankTests\obj\Debug\BankTests.csproj.CopyComplete
+D:\U\Semestre 1\Análisis y diseño de sistemas 1 - Lab\Hoja de trabajo 3\[AYD1]HojaDeTrabajo3_201602719\BankTests\obj\Debug\BankTests.dll
+D:\U\Semestre 1\Análisis y diseño de sistemas 1 - Lab\Hoja de trabajo 3\[AYD1]HojaDeTrabajo3_201602719\BankTests\obj\Debug\BankTests.pdb
