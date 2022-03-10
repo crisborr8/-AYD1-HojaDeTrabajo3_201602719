@@ -1,0 +1,6 @@
+D:\U\Semestre 1\Análisis y diseño de sistemas 1 - Lab\Hoja de trabajo 3\[AYD1]HojaDeTrabajo3_201602719\Bank\bin\Debug\Bank.exe
+D:\U\Semestre 1\Análisis y diseño de sistemas 1 - Lab\Hoja de trabajo 3\[AYD1]HojaDeTrabajo3_201602719\Bank\bin\Debug\Bank.pdb
+D:\U\Semestre 1\Análisis y diseño de sistemas 1 - Lab\Hoja de trabajo 3\[AYD1]HojaDeTrabajo3_201602719\Bank\obj\Debug\Bank.csproj.AssemblyReference.cache
+D:\U\Semestre 1\Análisis y diseño de sistemas 1 - Lab\Hoja de trabajo 3\[AYD1]HojaDeTrabajo3_201602719\Bank\obj\Debug\Bank.csproj.CoreCompileInputs.cache
+D:\U\Semestre 1\Análisis y diseño de sistemas 1 - Lab\Hoja de trabajo 3\[AYD1]HojaDeTrabajo3_201602719\Bank\obj\Debug\Bank.exe
+D:\U\Semestre 1\Análisis y diseño de sistemas 1 - Lab\Hoja de trabajo 3\[AYD1]HojaDeTrabajo3_201602719\Bank\obj\Debug\Bank.pdb
